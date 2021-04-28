@@ -1,0 +1,13 @@
+C:\Users\keerthana\source\repos\reoccurence of the string\bin\Debug\netcoreapp3.1\Day 1.exe
+C:\Users\keerthana\source\repos\reoccurence of the string\bin\Debug\netcoreapp3.1\Day 1.deps.json
+C:\Users\keerthana\source\repos\reoccurence of the string\bin\Debug\netcoreapp3.1\Day 1.runtimeconfig.json
+C:\Users\keerthana\source\repos\reoccurence of the string\bin\Debug\netcoreapp3.1\Day 1.runtimeconfig.dev.json
+C:\Users\keerthana\source\repos\reoccurence of the string\bin\Debug\netcoreapp3.1\Day 1.dll
+C:\Users\keerthana\source\repos\reoccurence of the string\bin\Debug\netcoreapp3.1\Day 1.pdb
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.csprojAssemblyReference.cache
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.AssemblyInfoInputs.cache
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.AssemblyInfo.cs
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.csproj.CoreCompileInputs.cache
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.dll
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.pdb
+C:\Users\keerthana\source\repos\reoccurence of the string\obj\Debug\netcoreapp3.1\Day 1.genruntimeconfig.cache
