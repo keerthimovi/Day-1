@@ -1,31 +1,32 @@
 ﻿using System;
 
-namespace reoccurence_of_the_string
+namespace Bubble_sort
 {
-
-    public class DuplicateCharacters
+    using System;
+    namespace BubbleSort
     {
-        public static void Main()
+        class Sortvalue
         {
-            String str = "My country is india i am living in chennai";
-            int count;
-            char[] string1 = str.ToCharArray();
-                Console.WriteLine("The Duplicate characters given in the sentences: ");
-            
-            for (int i = 0; i < string1.Length; i++)
+            static void Main(string[] args)
             {
-             count = 1;
-              for (int j = i + 1; j < string1.Length; j++)
+                int[] arr = { 98, 87, 64, 92, 13 };
+                int temp;
+                for (int j = 0; j <= arr.Length - 2; j++)
                 {
-                  if (string1[i] == string1[j] && string1[i] != ' ')
+                    for (int i = 0; i <= arr.Length - 2; i++)
                     {
-                        count++;
-                        string1[j] = '0';
+                        if (arr[i] > arr[i + 1])
+                        {
+                            temp = arr[i + 1];
+                            arr[i + 1] = arr[i];
+                            arr[i] = temp;
+                        }
                     }
                 }
-               
-                if (count > 1 && string1[i] != '0')
-                    Console.WriteLine(string1[i]);
+                Console.WriteLine("Sorted value:");
+                foreach (int p in arr)
+                    Console.Write(p + " ");
+                Console.Read();
             }
         }
     }
